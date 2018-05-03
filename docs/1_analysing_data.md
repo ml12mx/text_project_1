@@ -23,7 +23,7 @@ source("setup.R")
 
 ------------
 
-## Presentation of the Survey Data
+## Presentation of the Survey Data ##
 
 ```{r, echo=FALSE, purl=TRUE}
 ### Presentation of the survey data
